@@ -1,0 +1,13 @@
+.container-footer {
+  background-color: #191b1a;
+  height: 10vh;
+  color: #fff;
+  margin-left: auto;
+  text-align: center;
+}
+.container-footer .footer-h5 {
+  display: inline-block;
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin: 1rem auto;
+}
